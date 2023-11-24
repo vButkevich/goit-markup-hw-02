@@ -15,3 +15,7 @@ body {
     text-transform: uppercase;
     color: #4d5ae5;
 }
+
+.logo span {
+    color: #2e2f42;
+}
