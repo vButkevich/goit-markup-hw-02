@@ -69,10 +69,40 @@ body {
 
 /* section */
 .hero {
+
+    width: 1440px;
+    height: 600px;
+    flex-shrink: 0;
     background-color: #2e2f42;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
-button {
+.hero-title {
+    /* font-size: 56px; */
+    /* line-height: 1.07; */
+    /* text-align: center; */
+    /* letter-spacing: 0.02em; */
+    /* color: #ffffff; */
+
+    color: var(--WHITE, #FFF);
+    text-align: center;
+
+    /* Header 1 */
+    font-family: Roboto;
+    font-size: 56px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 60px;
+    /* 107.143% */
+    letter-spacing: 1.12px;
+
+}
+
+.hero-button {
     background-color: #4D5AE5;
     font-family: "Roboto", sans-serif;
     font-weight: 500;
