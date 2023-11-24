@@ -84,6 +84,6 @@ button {
 }
 
 button:hover,
-focus {
+:focus {
     background-color: #404BBF;
 }
