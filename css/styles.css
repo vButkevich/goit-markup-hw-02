@@ -70,8 +70,8 @@ body {
 /* section */
 .hero {
 
-    width: 1440px;
-    height: 600px;
+    /* width: 1440px;
+    height: 600px; */
     flex-shrink: 0;
     background-color: #2e2f42;
 
@@ -82,6 +82,7 @@ body {
     align-items: center;
      */
 }
+
 
 .hero-header {
     /* font-size: 56px; */
