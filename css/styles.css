@@ -64,3 +64,14 @@ body {
 :focus {
     color: #404bbf;
 }
+
+
+
+/* section */
+.hero {
+    background-color: #2e2f42;
+}
+
+button {
+    cursor: pointer;
+}
