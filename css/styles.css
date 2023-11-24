@@ -27,6 +27,7 @@ body {
     color: #2e2f42;
 }
 
-.menu-item:hover {
+.menu-item:hover,
+:focus {
     color: #404bbf;
 }
