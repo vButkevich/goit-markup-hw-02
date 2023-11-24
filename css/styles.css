@@ -31,3 +31,18 @@ body {
 :focus {
     color: #404bbf;
 }
+
+.address {
+    font-style: normal;
+}
+
+.address-item {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+.address-item:hover,
+:focus {
+    color: #404bbf;
+}
