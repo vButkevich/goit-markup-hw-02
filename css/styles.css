@@ -36,6 +36,7 @@ body {
     font-style: normal;
 }
 
+
 .address-item {
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -43,6 +44,17 @@ body {
 }
 
 .address-item:hover,
+:focus {
+    color: #404bbf;
+}
+
+
+
+.address-link {
+    color: #434455;
+}
+
+.address-link:hover,
 :focus {
     color: #404bbf;
 }
