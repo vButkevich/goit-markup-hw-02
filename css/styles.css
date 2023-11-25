@@ -109,12 +109,18 @@ button:hover,
     background-color: #404BBF;
 }
 
-
-/* section.#2: Benefits */
 /* 
-.benefits {
+.header {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
 }
 */
+
+/* section.#2: Benefits */
+/* .benefits {}*/
 .benefits-item-header {
     font-weight: 500;
     font-size: 20px;
@@ -130,15 +136,26 @@ button:hover,
 
 }
 
-.header {
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
-}
-
 /* section.#3:  Our Team */
 .team {
     background-color: #F4F4FD;
+}
+
+.team-item-header {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+
+.team-item {
+    background-color: #FFFFFF;
+}
+
+.team-item-text {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
