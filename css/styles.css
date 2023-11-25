@@ -108,3 +108,28 @@ button:hover,
 :focus {
     background-color: #404BBF;
 }
+
+
+/* Benefits */
+/* 
+.benefits-header {
+    font-weight: 500;
+}
+*/
+
+.benefits-item-header {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.benefits-item-text {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+
+}
