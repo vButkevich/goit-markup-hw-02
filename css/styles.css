@@ -22,13 +22,11 @@ ul {
     text-transform: uppercase;
 }
 
-.logo>span {
+.logo-span {
     color: #2e2f42;
 }
 
-.logo-span {
-    color: #f4f4fd;
-}
+
 
 
 .menu-item {
@@ -180,6 +178,10 @@ button:hover,
 /* footer */
 .footer {
     background-color: #2e2f42;
+}
+
+.footer-logo-span {
+    color: #f4f4fd;
 }
 
 .footer-text {
