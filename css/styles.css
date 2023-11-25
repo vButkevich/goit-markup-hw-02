@@ -22,12 +22,11 @@ ul {
     text-transform: uppercase;
 }
 
-.logo-span {
+/* 
+.logo>span {
     color: #2e2f42;
 }
-
-
-
+*/
 
 .menu-item {
     font-weight: 500;
